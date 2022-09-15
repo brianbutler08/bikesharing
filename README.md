@@ -2,9 +2,20 @@
 
 # Overview
 
+For this project, we conducted various analyses of a dataset from the Citi Bike bikesharing program in New York City from August, 2019. The overall goal was to draw some conclusions from the analysis in order to provide information another city interested in starting a bikeshare program. The dataset included the following fields for each bike trip taken during the month:
+- Trip duration
+- Trip start and end times
+- Name and ID of the starting and ending bike stations
+- Latitude and longitude of the starting and ending bike stations
+- ID of each bike
+- Type of user (subscriber or customer)
+- Birth year and gender of the rider
+
 # Results
 
-The most important visualizations were compiled into a Tableau Story. The first page includes an overall look at some key data, including the total number of riders and a breakdown by gender and user type. Additionally, I mapped the starting and finishing locations of each bike rental, using size and color to modify each marker to indicate the relative number of trips.
+The most important visualizations were compiled into a Tableau Story, which can be found here: [link to dashboard](https://public.tableau.com/app/profile/brian.butler1174/viz/Challenge_16625093032150/NYCCitiBikeStory)
+
+The first page includes an overall look at some key data, including the total number of riders and a breakdown by gender and user type. Additionally, I mapped the starting and finishing locations of each bike rental, using size and color to modify each marker to indicate the relative number of trips.
 
 !["1"](https://github.com/brianbutler08/bikesharing/blob/main/Images_bikesharing/1.png)
 
