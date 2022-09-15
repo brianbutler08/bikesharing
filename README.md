@@ -4,23 +4,21 @@
 
 # Results
 
-The most important visualizations were compiled into a Tableau Story. The first page includes an overall look at some key data, including the total number of riders and a breakdown by gender and user type. Additionally, I mapped 
+The most important visualizations were compiled into a Tableau Story. The first page includes an overall look at some key data, including the total number of riders and a breakdown by gender and user type. Additionally, I mapped the starting and finishing locations of each bike rental, using size and color to modify each marker to indicate the relative number of trips.
 
 !["1"](https://github.com/brianbutler08/bikesharing/blob/main/Images_bikesharing/1.png)
 
-text
+Next, we wanted to look at the duration of each trip and how that may differ by gender. Overall, the most common trips were between 4 and 6 hours, with longer trip durations tending to taper off in frequency. The trend shown by male riders mirrored that of the whole dataset, while the results for female riders was similar, albeit with less of a peak around the five hour mark.
 
 !["2"](https://github.com/brianbutler08/bikesharing/blob/main/Images_bikesharing/2.png)
 
-text
+An important step in this analysis was to visualize bike usage by hour for each day of the week. Between Monday and Friday, there are clearly two times of high usage - around 8:00 AM and between 5:00 and 7:00 PM. These time ranges correspond to daily commuting times, suggesting that many of the riders in this program are using Citi bikes to get to work and return home again. Weekend patterns are distinctly different, with the highest usage happening between the late morning and late afternoon, suggesting more recreational usage.
 
 !["3"](https://github.com/brianbutler08/bikesharing/blob/main/Images_bikesharing/3.png)
 
-text
+When we look at this same dataset divided by gender, the pattern remains (although males are riding at two to three times the levels of females during each time block). Looking at trips by user type (and gender) provides support to our earlier theory, that subscribers are using the bike program primarily during weekdays and customers ride more often on the weekend.
 
 !["4"](https://github.com/brianbutler08/bikesharing/blob/main/Images_bikesharing/4.png)
-
-text
 
 # Summary
 
