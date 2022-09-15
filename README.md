@@ -2,7 +2,7 @@
 
 # Overview
 
-For this project, we conducted various analyses of a dataset from the Citi Bike bikesharing program in New York City from August, 2019. The overall goal was to draw some conclusions from the analysis in order to provide information another city interested in starting a bikeshare program. The dataset included the following fields for each bike trip taken during the month:
+For this project, we conducted various analyses of a dataset from the Citi Bike bikesharing program in New York City from August, 2019. The overall goal was to draw some conclusions from the analysis in order to provide guidance to another city interested in starting a bikeshare program. The dataset included the following fields for each bike trip taken during the month:
 - Trip duration
 - Trip start and end times
 - Name and ID of the starting and ending bike stations
@@ -41,5 +41,5 @@ Looking at the map of customer starting locations, there appears to a higher num
 
 Furthermore, the top three customer start locations can be found near parks, shopping and tourist attractions:
 - 12th Ave and 40th St - next to the Hudson River at the ferry terminal and near museums
-- Broadway and W 60th - Columbus Circle, at the edge of Central Park and a large mall
+- Broadway and W 60th - Columbus Circle, at the edge of Central Park and a large shopping mall
 - West St and Chambers St - Rockafeller Park, near Battery Park sports fields and Tribeca
